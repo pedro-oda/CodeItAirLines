@@ -1,0 +1,59 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Pedro",
+    "TipoTripulante": 0,
+    "PodeDirigir": true,
+    "Equipe": 3
+  },
+  {
+    "Id": 2,
+    "Nome": "Fernando",
+    "TipoTripulante": 1,
+    "PodeDirigir": true,
+    "Equipe": 4
+  },
+  {
+    "Id": 3,
+    "Nome": "Felipe",
+    "TipoTripulante": 2,
+    "PodeDirigir": true,
+    "Equipe": 5
+  },
+  {
+    "Id": 4,
+    "Nome": "Rodrigo",
+    "TipoTripulante": 3,
+    "PodeDirigir": false,
+    "Equipe": null
+  },
+  {
+    "Id": 5,
+    "Nome": "Marcos",
+    "TipoTripulante": 3,
+    "PodeDirigir": false,
+    "Equipe": null
+  },
+  {
+    "Id": 6,
+    "Nome": "Anna",
+    "TipoTripulante": 4,
+    "PodeDirigir": false,
+    "Equipe": null
+  },
+  {
+    "Id": 7,
+    "Nome": "Maria",
+    "TipoTripulante": 4,
+    "PodeDirigir": false,
+    "Equipe": null
+  },
+  {
+    "Id": 8,
+    "Nome": "Gabriel",
+    "TipoTripulante": 5,
+    "PodeDirigir": false,
+    "Equipe": null
+  }
+]
+

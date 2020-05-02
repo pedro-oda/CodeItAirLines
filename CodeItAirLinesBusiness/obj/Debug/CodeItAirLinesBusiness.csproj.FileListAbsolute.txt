@@ -1,0 +1,56 @@
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CopyComplete
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.dll
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.dll
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.pdb
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.pdb
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CopyComplete
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\Desktop\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csprojAssemblyReference.cache
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CopyComplete
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesBusiness.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesInfra.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Repository.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.csproj.CopyComplete
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\CodeItAirLinesBusiness\obj\Debug\CodeItAirLinesBusiness.pdb

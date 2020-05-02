@@ -1,0 +1,30 @@
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\bin\Debug\Repository.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\bin\Debug\Repository.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CopyComplete
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\obj\Debug\Repository.dll
+C:\Users\Pedro\source\repos\CodeItAirLines\Repository\obj\Debug\Repository.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\Repository.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\Repository.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csprojAssemblyReference.cache
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CoreCompileInputs.cache
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CopyComplete
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\obj\Debug\Repository.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\obj\Debug\Repository.pdb
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leo_a\Downloads\CodeItAirLines\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\bin\Debug\Repository.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\bin\Debug\Repository.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\bin\Debug\CodeItAirLinesModels.pdb
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\obj\Debug\CodeItRepository.csproj.CopyComplete
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\obj\Debug\Repository.dll
+C:\Users\Pedro\Desktop\last project\CodeItAirLines\Repository\obj\Debug\Repository.pdb
